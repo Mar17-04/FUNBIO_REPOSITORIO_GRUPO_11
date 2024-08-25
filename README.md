@@ -20,7 +20,11 @@ Integrantes:
 
 -*GALLARDO SILVA ,ANA LUCIA*(colaborador) -
 <Ana.gallardo@upch.pe>
-<center><img src="https://assets.mofoprod.net/network/images/pasted_image_0.original.png " width="350" height="300">.</center>
+
+ <p align="center"><img src="https://assets.mofoprod.net/network/images/pasted_image_0.original.png" width="300" height="250">
+
+
+
 
 
 |  DE LA CRUZ BLAS ,JORGE RODRIGO | PLASENCIA JANAMPA ,LUIS MARCOS  | GRANDEZ SALVADOR ,MARIO JOSUE  |
