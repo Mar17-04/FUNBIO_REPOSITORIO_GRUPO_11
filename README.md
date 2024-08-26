@@ -31,7 +31,7 @@ Integrantes:
 |:---|---|---|
 |  <img src="https://github.com/user-attachments/assets/d8d080bc-f2cf-4fcb-abe7-4e7a255dae01" width="250" height="250">   | <img src="https://github.com/user-attachments/assets/94acfd12-bd76-4f86-9d97-25d84f5af3a0" width="200" height="250">  |   <img src="https://github.com/user-attachments/assets/5a030d0a-17fa-4ba0-9b35-f020fb453e33" width="200" height="250">      |
 | Ciclo universitario: 4to| Ciclo universitario:  | Ciclo universitario:  |
-| Rama de interes:  |  Rama de interes:    |  Rama de interes:   |
+| Rama de interes: Ingeniería Clínica y Biomecánica |  Rama de interes:    |  Rama de interes:   |
 | Descripcion:  | Descripcion:   | Descripcion:   |
 
 | GALLARDO SILVA ,ANA LUCIA | VARGAS BELON ,LUIS RODRIGO  |
