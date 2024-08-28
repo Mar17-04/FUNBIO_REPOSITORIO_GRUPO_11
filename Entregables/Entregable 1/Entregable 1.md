@@ -29,7 +29,7 @@ En resumen, el open hardware promueve la transparencia, la colaboración y la in
 
 ## 2.  CONTEXTO DEL VIH Y SU TRANSMISIÓN EN PERÚ Y EL MUNDO:
 
-Aproximadamente una problematica mundial de la medician actual son los diversos tratamientos o taboos de enfermedades de mucha ignorancia como es el caso del VIH(Virus de Inmunodeficiencia) que aqueja a una gran parte de la población mundial, uno de los principales problemas es los metodos de transmisión dentro de ellos esta la transmisión de madre a hijo. 
+Aproximadamente una problematica mundial de la medician actual son los diversos tratameitnso o taboos de enfermedades de mucha ignorancia como es el caso del VIH(Virus de Inmunodeficiencia) que aqueja a una gran parte de la población mundial, uno de los principales problemas es los metodos de transmisión dentro de ellos esta la transmisión de madre a hijo. 
 
 La transmisión de VIH de madre a hijo, conocida como transmisión vertical, es una preocupación importante a nivel mundial. Sin intervenciones, las tasas de transmisión del VIH de madre a hijo pueden variar entre el 15% y el 45%. Sin embargo, con programas de prevención adecuados, estas tasas pueden reducirse significativamente, incluso a menos del 5%.
 
@@ -45,7 +45,7 @@ Las regiones más alejadas de la costa, como las zonas rurales y selváticas, pr
 
 ## 3. DIAGRAMA DE ISHIKAWA:
 
-
+<img src="https://github.com/user-attachments/assets/0fc443ff-4737-44b5-8bf8-7c0a64f6a46b" width="970" height="540">
 
 
 ## 4. DEFINICIÓN DE LA PROBLEMATICA:
@@ -62,16 +62,18 @@ En las zonas rurales de Perú, las mujeres embarazadas portadoras del VIH enfren
 
 El estado del arte es una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al realizar un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para comprender el problema abordado. En resumen, ofrece una variedad de métodos para estudiar un tema específico.
 
-En el caso de nuestro proyecto, debido a la rama que se trata en clase, lo enfocamos en solucionar el problema de manera tecnológica. Por lo tanto, se buscan artículos de fuentes viables y verificables que describan el uso de soluciones tecnológicas aplicadas a la problematica propuesta. 
+En el caso de nuestro proyecto, debido a la rama que se trata en clase, lo enfocamos en solucionar el problema de manera tecnológica. Por lo tanto, se buscan artículos de fuentes viables y verificables que describan el uso de soluciones tecnológicas aplicadas a la problematica propuesta 
 
-Nuestra problematica es un tema de interés en la mayoría de foros de investigación científica debido al alacen y la necesidad vigente que hay de solucionar estas brechas socioculturales que de alguna u otra forma afectan a la salud de un sector muy importante dentro del Perú que son personas de zonas rurales con difícil acceso a medios y servicios de salud tanto así como la desinformación sobre el tema que evita el tratado y la concetración de esfuerzos para poder lograr una prevención en su totatalidad o con un mayor índice de éxito.
+Nuestra problematica es un tema de interes en la mayoría de foros de investigación cientfica debido al alacen y la necesidad vigente que hay de solucionar estas brechas socioculturales que de alguna u otra forma afectan a la salud de un sector muy importante dentro del Perú que son personas de zonas ruralres con dificl acceso a medios y serivicos de salud tanto así como la desinformación sobre el tema que evita el tratado y la concetración de esfuerzos para poder lograr una prevención en su totatalidad o con un mayor indice de exito.
 
-Para esto es más que importante reconocer que es necesario plantear un dispositivo que simule en todo caso como idea a desarrolar. En cuestión la idea general o solución planteada se podría decir que sería desarrollar un dispositivo portátil y automático, inspirado en las bombas de insulina, que administre dosis controladas de terapia antirretroviral de manera continua y precisa. Este dispositivo estaría diseñado para mujeres embarazadas portadoras del VIH en zonas rurales, permitiendo un tratamiento constante sin la necesidad de visitas frecuentes a los centros de salud. Para ello es más que importante abordar y recaudar la información de avances similares o parecidos en campos similares como por ejemplo:
+Para esto es mas que importante reconocer que es necesario plantear un dispositivo que simule en todo caso como idea a desarrolar. En cuestión la idea general o soluciónplanteada se podría decir que sería desarrollar un dispositivo portátil y automático, inspirado en las bombas de insulina, que administre dosis controladas de terapia antirretroviral de manera continua y precisa. Este dispositivo estaría diseñado para mujeres embarazadas portadoras del VIH en zonas rurales, permitiendo un tratamiento constante sin la necesidad de visitas frecuentes a los centros de salud. 
+
+Para ello es mas que importante abordar y recaudar la información de avances similares o parecidos en campos similares como por ejemplo:
 
 
--*Bombas de insulina:* Las bombas de insulina son dispositivos médicos utilizados por personas con diabetes, especialmente diabetes tipo 1, para administrar insulina de manera continua. Estos dispositivos permiten un control más preciso de los niveles de glucosa en sangre, imitando de forma más cercana la liberación natural de insulina por el páncreas.
+-*Bomba de jeringa:* Cuando usas la bomba de jeringas, el pistón se mueve automáticamente hacia adelante muy despacio para sacar el líquido de la jeringa poco a poco. Esta máquina se utiliza para administrar medicamentos a personas que necesitan recibirlos lentamente, como si fuera un goteo continuo.
 
--*Bomba de Juguete Modular:* Un sistema de bomba microfluídica modular y portátil, que no requiere energía eléctrica. Este dispositivo utiliza presión negativa para impulsar fluidos, lo que lo hace ideal para aplicaciones en entornos con recursos limitados.
+-*Las bombas de infusión:* Una bomba de infusión es un dispositivo médico que administra medicamentos, nutrientes o fluidos directamente en el cuerpo de manera controlada y precisa a través de una vía intravenosa, subcutánea, o epidural. Aparatos accesibles en los centros de atención de salud terciarios, donde el 93% tenía acceso fácil o limitado, esto se debe a que hay instalaciones que si las poseen. En los establecimientos de nivel secundario solo eran accesibles al 50%, siendo un índice demasiado bajo. En los establecimientos de nivel primario el 76% no tenían acceso a bombas de infusión o tenían un acceso limitado
 
 -*Bio-O-Pump:* Una bomba microfluídica portátil que utiliza principios osmóticos para generar flujo sin la necesidad de componentes externos complejos. Está diseñada para ofrecer un flujo constante y predecible, aplicable en diagnósticos y tratamientos continuos​
 
@@ -88,3 +90,7 @@ Estas propuestas destacan por su portabilidad, bajo costo y adaptabilidad a ento
 -https://pubs.aip.org/aip/bmf/article-abstract/6/1/014118/924236/A-place-n-play-modular-pump-for-portable?redirectedFrom=fulltext
 
 -https://www.sciencedirect.com/science/article/abs/pii/S0925400519300395
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10023007/
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834926/
