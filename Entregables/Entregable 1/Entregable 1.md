@@ -81,16 +81,21 @@ Estas propuestas destacan por su portabilidad, bajo costo y adaptabilidad a ento
 
 ## REFERENCIAS BIBLIOGRAFICAS:
 
+1. Progress in reducing new HIV infections among children has stagnated in recent years. UNICEF. (2024).
 -https://data.unicef.org/topic/hivaids/emtct/
 
+2. Challenges to integrating programs for the elimination of mother-to-child transmission of HIV, syphilis, and hepatitis B into antenatal care: Experiences from Indonesia. Luh Putu Lila Wulandari. (2024).
 -https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002977
 
+3. Factors associated with knowledge of mother-to-child transmission of HIV among reproductive-age women in Indonesia: a multilevel analysis. Agani Afaya. (2024).
 -https://aidsrestherapy.biomedcentral.com/articles/10.1186/s12981-024-00596-6
 
--https://pubs.aip.org/aip/bmf/article-abstract/6/1/014118/924236/A-place-n-play-modular-pump-for-portable?redirectedFrom=fulltext
-
+4. Bio-O-Pump: a novel portable microfluidic device driven by osmotic pressure. Chen-Han Chuang. (2019).
 -https://www.sciencedirect.com/science/article/abs/pii/S0925400519300395
 
+5. Precision and reliability study of hospital infusion pumps: a systematic review. Biomedical engineering online.
+Silva, M. D. S. (2023).
 -https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10023007/
 
+6. Defining the Current Deployment of Neonatal Infusion Pumps in Low- and Lower-Middle-Income Countries: A Rapid Review.  Norton, O. (2023).
 -https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834926/
