@@ -59,10 +59,10 @@ Integrantes:
 
 # Tabla de contenidos
 
-*
+* CONTENIDO
 
-*
+* DOCUMENTOS
 
-*
+* SOFTWARE
 
-*
+* HARDWARE
