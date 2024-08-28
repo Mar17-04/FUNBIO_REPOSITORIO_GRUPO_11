@@ -29,7 +29,7 @@ En resumen, el open hardware promueve la transparencia, la colaboración y la in
 
 ## 2.  CONTEXTO DEL VIH Y SU TRANSMISIÓN EN PERÚ Y EL MUNDO:
 
-Aproximadamente una problematica mundial de la medician actual son los diversos tratameitnso o taboos de enfermedades de mucha ignorancia como es el caso del VIH(Virus de Inmunodeficiencia) que aqueja a una gran parte de la población mundial, uno de los principales problemas es los metodos de transmisión dentro de ellos esta la transmisión de madre a hijo. 
+Aproximadamente una problematica mundial de la medician actual son los diversos tratamientos o taboos de enfermedades de mucha ignorancia como es el caso del VIH(Virus de Inmunodeficiencia) que aqueja a una gran parte de la población mundial, uno de los principales problemas es los metodos de transmisión dentro de ellos esta la transmisión de madre a hijo. 
 
 La transmisión de VIH de madre a hijo, conocida como transmisión vertical, es una preocupación importante a nivel mundial. Sin intervenciones, las tasas de transmisión del VIH de madre a hijo pueden variar entre el 15% y el 45%. Sin embargo, con programas de prevención adecuados, estas tasas pueden reducirse significativamente, incluso a menos del 5%.
 
