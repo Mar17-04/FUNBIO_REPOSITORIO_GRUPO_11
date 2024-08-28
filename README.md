@@ -41,8 +41,8 @@ Integrantes:
 | <img src="https://github.com/user-attachments/assets/a0f15b51-c9dd-42be-ac7d-223f341635ff" width="200" height="250">  | <img src="https://github.com/user-attachments/assets/d746004b-1886-4d1e-b838-3a06669d5b43" width="200" height="250">  |
 | Ciclo universitario: 4to  | Ciclo universitario:  |
 | Rama de interes: Ing.Tejidos  | Rama de interes:  |
-| Expectativas del curso: Aprender a realizar una solucion factible 
-  y mejorar mis habilidades de modelado 3D   | Expectativas del curso:   |
+| Expectativas del curso: Aprender a realizar una solucion factible| 
+|  y mejorar mis habilidades de modelado 3D   | Expectativas del curso:   |
 
 
 
