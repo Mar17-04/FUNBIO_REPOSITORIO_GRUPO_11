@@ -14,7 +14,7 @@ Integrantes:
 
 -*PLASENCIA JANAMPA ,LUIS MARCOS*(colaborador) - <Luis.plasencia@upch.pe>
 
--*VARGAS BELON ,LUIS RODRIGO*(colaborador) -
+-*VARGAS BELON ,LUIS RODRIGO*(colaborador) - <luis.vargas@upch.pe>
 
 -*GRANDEZ SALVADOR ,MARIO JOSUE*(colaborador) - <mario.grandez@upch.pe>
 
@@ -39,9 +39,9 @@ Integrantes:
 | GALLARDO SILVA ,ANA LUCIA | VARGAS BELON ,LUIS RODRIGO  |
 |:---|---|
 | <img src="https://github.com/user-attachments/assets/a0f15b51-c9dd-42be-ac7d-223f341635ff" width="200" height="250">  | <img src="https://github.com/user-attachments/assets/d746004b-1886-4d1e-b838-3a06669d5b43" width="200" height="250">  |
-| Ciclo universitario: 4to  | Ciclo universitario:  |
-| Rama de interes: Ing.Tejidos  | Rama de interes:  |
-| Expectativas del curso: Aprender a realizar una solucion factible y mejorar mis habilidades de modelado 3D   | Expectativas del curso:   |
+| Ciclo universitario: 4to  | Ciclo universitario: 4to |
+| Rama de interes: Ing.Tejidos  | Rama de interes:  Ing Tejidos y Biomecanica|
+| Expectativas del curso: Aprender a realizar una solucion factible y mejorar mis habilidades de modelado 3D   | Expectativas del curso: Aprender a prototipar proyectos de con las herramientas presentadas en el curso|
 
 
 
