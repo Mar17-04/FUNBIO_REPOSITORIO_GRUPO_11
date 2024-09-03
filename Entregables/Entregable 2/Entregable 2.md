@@ -1,21 +1,10 @@
-# Estado del Arte
-
-
-## Propuestas y sus enfoques 
-
-## Propuestas existentes
-
-| Ventiladores existentes  | Descripción  |
-|:-:|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-
-## Patentes existentes
-
-
-## Lista de Requerimentos
-
-
-## Propuesta de solución
+# ENTREGABLE 2:
+![CAP1](https://github.com/user-attachments/assets/d258d9fe-1fc6-4137-9bc8-07593e7cd46c)
+![CAP2](https://github.com/user-attachments/assets/4fc9e7f6-c4ad-4437-984e-3102c0c0c7c4)![CAP3](https://github.com/user-attachments/assets/925df6b0-4b0f-4b0a-9aa8-a1f37ee77eb7)
+![CAP4](https://github.com/user-attachments/assets/7640fa26-6497-492a-bd6c-276c5539954e)
+![CAP5](https://github.com/user-attachments/assets/4a6b55c0-bac0-43d7-838b-c0e6db695c2c)
+[CAP6](https://github.com/user-attachments/assets/3a99b1ce-ffc0-40b8-852d-41496f07b644)
+![CAP7](https://github.com/user-attachments/assets/9eb30d33-b1cd-4b17-b267-4bd5458e3da3)
+![CAP8](https://github.com/user-attachments/assets/a9f0fb32-3c50-4cff-b98d-85258251b585)
+![CAP9](https://github.com/user-attachments/assets/a4bf16a1-55ba-4311-8b6d-e3d3e3e1b4a2)
+![CAP10](https://github.com/user-attachments/assets/52886cc5-4acf-4fca-a5cb-79cc533ebfc5)
