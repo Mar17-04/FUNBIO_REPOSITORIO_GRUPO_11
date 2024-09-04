@@ -1,5 +1,6 @@
 
-![Imagenpucp](https://camo.githubusercontent.com/e13e635ffa86ffb76d5cf33cb50e97af1b06a26de7fbd265e94df071cb0f1f16/68747470733a2f2f692e706f7374696d672e63632f58594c3947584d522f707563702e706e67)
+
+[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 
 # FUNBIO_REPOSITORIO_GRUPO_11
 
