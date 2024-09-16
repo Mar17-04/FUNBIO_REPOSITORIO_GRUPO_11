@@ -2,12 +2,12 @@
 
 [![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 
-# FUNBIO_REPOSITORIO_GRUPO_11
+# FUNBIO_REPOSITORIO_GRUPO_1️⃣1️⃣:
 
 Bienvenidos al repositorio del Grupo 11 del curso de "Fundamentos de Biodiseño"
 Proyecto:
 
-## Presentación del grupo
+## Presentación del grupo 🧑‍🔬
 
 Integrantes:
 
@@ -59,10 +59,10 @@ Integrantes:
 
 # Tabla de contenidos
 
-* DOCUMENTOS 
+* DOCUMENTOS 🗞️ 
 
-* HARDWARE
+* HARDWARE 💻
 
-* SOFTWARE
+* SOFTWARE 🔢
 
-* FUENTES
+* FUENTES 📋
