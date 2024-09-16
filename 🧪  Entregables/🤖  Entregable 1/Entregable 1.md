@@ -1,6 +1,6 @@
-# ENTREGABLE 1
+# ENTREGABLE 1 📍:
 
-## 1. Deficinición de Open Hardware:
+## 1. Deficinición de Open Hardware :accessibility: : 
 
 Open hardware, también conocido como hardware libre, electrónica libre o máquinas libres, se refiere a aquellos dispositivos cuyo diseño es público y accesible para cualquier persona. Esto significa que los diagramas esquemáticos, especificaciones técnicas y otra información relevante sobre el hardware están disponibles para que cualquiera pueda:
 
@@ -27,7 +27,7 @@ En resumen, el open hardware promueve la transparencia, la colaboración y la in
 
 -<mark>Sostenibilidad:</mark> El open hardware puede contribuir a una economía más circular al fomentar la reutilización y el reciclaje.
 
-## 2.  CONTEXTO DE LA ATENCIÓN PREHOSPITALARIA EN EL PERÚ Y SUS DEFICIENCIAS:
+## 2.  CONTEXTO DE LA ATENCIÓN PREHOSPITALARIA EN EL PERÚ Y SUS DEFICIENCIAS 📌:
 
 La atención prehospitalaria en Perú enfrenta importantes desafíos, particularmente en las zonas rurales. Los estudios han demostrado que los retrasos en el traslado de pacientes y la falta de sistemas médicos de emergencia se asocian con una mayor mortalidad en las víctimas de accidentes de tráfico (1). La escasez de recursos, tanto humanos como físicos, es más pronunciada en los centros de salud públicos y provincias (2). En las zonas rurales andinas de Perú, las barreras a la atención de emergencia incluyen la falta de infraestructura, protocolos poco claros y desconfianza en los proveedores de atención sanitaria (3). Para abordar estos problemas, se ha propuesto reforzar el sistema de emergencias y formar a personal no médico en técnicas básicas de reanimación cardiopulmonar (4). Además, capacitar a los miembros de la comunidad mediante programas de formación en primeros auxilios podría ser beneficioso y bien recibido en las zonas rurales (4). Mejorar la atención prehospitalaria en Perú requiere abordar estos retos estructurales y educativos para mejorar las capacidades de respuesta a emergencias en todo el país.
 
@@ -51,12 +51,12 @@ La ventilación manual en la atención prehospitalaria se asocia con complicacio
 Por ello es más que importante reconocer que todo es parte de deficiencias normalmente comunes en sectores publicos o zonas enla que intención del goierno por ayudar se limita a las condiciones precarias de gestión y por ello el solo hecho de no tener tal vez autoridadeds competentes en posibles campañas de capacitación o fomentación de adquisición de nuesvos dispositivos más innovadores y de bajo costo .
 
 
-## 3. DIAGRAMA DE ISHIKAWA:
+## 3. DIAGRAMA DE ISHIKAWA 🐟 :
 
 <img src="https://i.postimg.cc/V6NnGjdW/Opera-Instant-nea-2024-09-01-223254-www-canva-com.png" width="1070" height="540">
 
 
-## 4. DEFINICIÓN DE LA PROBLEMATICA:
+## 4. DEFINICIÓN DE LA PROBLEMATICA ❔:
 
 La atención prehospitalaria es un componente crucial en la respuesta a emergencias médicas, especialmente en el contexto de accidentes de tránsito. En Perú, la efectividad de esta atención ha sido objeto de estudio para determinar su impacto en la mortalidad hospitalaria.
 
@@ -72,7 +72,7 @@ Asociación entre tiempo de atención prehospitalaria y mortalidad hospitalaria 
 La atención prehospitalaria en Perú, especialmente en el contexto de accidentes de tránsito, es crucial para reducir la mortalidad hospitalaria. Los estudios indican que los retrasos en la atención y la falta de un sistema de emergencias médicas prehospitalarias aumentan significativamente la mortalidad. Por lo tanto, mejorar la infraestructura y la capacitación en atención prehospitalaria es esencial para mejorar los resultados de salud en emergencias.
 
 
-## 5. ESTADO DEL ARTE Y EVIDENCIA CIENTIFICA:
+## 5. ESTADO DEL ARTE Y EVIDENCIA CIENTIFICA 🧑‍🔬:
 
 El estado del arte es una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al realizar un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para comprender el problema abordado. En resumen, ofrece una variedad de métodos para estudiar un tema específico.
 
