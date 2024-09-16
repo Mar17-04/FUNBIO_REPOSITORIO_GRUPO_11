@@ -1,4 +1,4 @@
-# ENTREGABLE 1 📍:
+# ENTREGABLE1️⃣ :
 
 ## 1. Deficinición de Open Hardware :accessibility: : 
 
