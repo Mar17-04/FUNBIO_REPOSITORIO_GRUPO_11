@@ -1,14 +1,28 @@
-# ENTREGABLE 2:
-![CAP1](https://github.com/user-attachments/assets/d258d9fe-1fc6-4137-9bc8-07593e7cd46c)
-![CAP 15](https://github.com/user-attachments/assets/9d4118fa-ada8-4c73-bd7d-81ed734f05b7)
-![CAP3](https://github.com/user-attachments/assets/925df6b0-4b0f-4b0a-9aa8-a1f37ee77eb7)
-![CAP4](https://github.com/user-attachments/assets/7640fa26-6497-492a-bd6c-276c5539954e)
-![CAP5](https://github.com/user-attachments/assets/4a6b55c0-bac0-43d7-838b-c0e6db695c2c)
-![CAP6](https://github.com/user-attachments/assets/3a99b1ce-ffc0-40b8-852d-41496f07b644)
-![CAP7](https://github.com/user-attachments/assets/9eb30d33-b1cd-4b17-b267-4bd5458e3da3)
-![CAP14](https://github.com/user-attachments/assets/d0c6b6e5-c48f-42e2-a1df-bc4244bd02c2)
-![CAP9](https://github.com/user-attachments/assets/a4bf16a1-55ba-4311-8b6d-e3d3e3e1b4a2)
-![CAP10](https://github.com/user-attachments/assets/52886cc5-4acf-4fca-a5cb-79cc533ebfc5)
-![CAP13](https://github.com/user-attachments/assets/aad0f39c-8f37-4dfa-ab35-458285d8a885)
-![CAP11](https://github.com/user-attachments/assets/9b46dfa1-4e0e-4c09-978e-e7253c01350e)
-![CAP12](https://github.com/user-attachments/assets/69814d69-9ba8-4af7-ba21-92ca4041e878)
+#  ENTREGABLE 2:
+![CAP1](https://i.postimg.cc/hjCdmfJr/P1.png)
+![CAP 15](https://i.postimg.cc/gcNDy091/P2.png)
+![CAP3](https://i.postimg.cc/zXvkx18v/P3.png)
+![CAP4](https://i.postimg.cc/YqPzVyC3/P4.png)
+![CAP5](https://i.postimg.cc/XYyk0cZ0/P5.png)
+![CAP6](https://i.postimg.cc/8CQBkJWf/P6.png)
+![CAP7](https://i.postimg.cc/R071WSQs/P7.png)
+![CAP14](https://i.postimg.cc/nzn47y3H/P8.png)
+![CAP9](https://i.postimg.cc/FRGjxT60/P9.png)
+![CAP10](https://i.postimg.cc/gjJ3tv9Q/P10.png)
+![CAP13](https://i.postimg.cc/c19Rg5wS/P11.png)
+![CAP11](https://i.postimg.cc/bN41LDmV/P12.png)
+![CAP12](https://i.postimg.cc/3xpmq868/P13.png)
+![CAP22](https://i.postimg.cc/fTVxxjf0/P14.png)
+
+
+## Bibliografía:
+- (1) Urbina, J., Monks, S. M., Ochoa, L., Stump, R. F., Wicker, R. B., Danek, C., Torres, V. I., & Crawford, S. B. (2021). Development and evaluation of an automated manual resuscitator-based emergency ventilator-alternative. Cureus, 13(3). https://doi.org/10.7759/cureus.13642
+- (2) Kumar, M., Kumar, R., Kumar, V., Chander, A., Airan, A., Arya, R., Wander, G. S., & Sahani, A. K. (2024). Design and technical evaluation of an AMBU-BAG based low-cost ventilator-AARMED. Smart Health, 31, 100445. https://doi.org/10.1016/j.smhl.2023.100445 
+- (3) UFMA apresenta protótipo de reanimador automatizado que poderá auxiliar pacientes com problemas respiratórios nos hospitais. (n.d.). Universidade Federal do Maranhão. Retrieved September 3, 2024, from https://portalpadrao.ufma.br/site/noticias/ufma-apresenta-prototipo-de-reanimador-automatizado-que-podera-auxiliar-pacientes-com-problemas-respiratorios-nos-hospitais
+- (4) la CPAP, ¿qué es. (n.d.). C PA P (presión positiva continua de las vías respiratorias). Intermountainhealthcare.org. Retrieved September 3, 2024, from https://intermountainhealthcare.org/ckr-ext/Dcmnt?ncid=520783591#:~:text=¿Qué%20es%20la%20CPAP%3F,sus%20vías%20aéreas%20mientras%20duerme.
+- (5) (N.d.). Fda.gov. Retrieved September 3, 2024, from https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/oximetros-de-pulso-y-concentradores-de-oxigeno-lo-que-debe-saber-sobre-la-terapia-de-oxigeno-en-el#:~:text=Los%20oxímetros%20de%20pulso%20generalmente,extraer%20una%20muestra%20de%20sangre.
+- (6) HAMILTON-T1: respirador de transporte inteligente. (n.d.). Hamilton-medical.com. Retrieved September 4, 2024, from https://www.hamilton-medical.com/es/Products/HAMILTON-T1.html
+- (7) ツィルディア，ヨルダケ エフ．, アラム，ナディア, ボウミック，アムリタ, メン，リウイー, グプタ，アナーニャ, シェカーニ，ハリス, & プラブデサイ，パラサメシュ ピー．. (2024). Pressure relief device for bag valve mask (Patent No. JP:7464998:B2). In Patent (JP:7464998:B2).
+- (8) Millar, G. W., & Beaumont, C. L. (2022). Combination CPAP and resuscitation systems and methods (Patent No. 11413421). In US Patent (No. 11413421).
+- (9) Luca Alberici, l.a. (2023). Manual resuscitation bag with improved PEP exhaust valve Abstract (US número de patente: 11590305B2)
+
