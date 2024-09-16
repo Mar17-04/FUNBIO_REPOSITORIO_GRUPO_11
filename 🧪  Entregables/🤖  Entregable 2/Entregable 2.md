@@ -1,4 +1,4 @@
-#  ENTREGABLE 2:
+#  ENTREGABLE :two: :
 ![CAP1](https://i.postimg.cc/hjCdmfJr/P1.png)
 ![CAP 15](https://i.postimg.cc/gcNDy091/P2.png)
 ![CAP3](https://i.postimg.cc/zXvkx18v/P3.png)
