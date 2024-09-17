@@ -59,10 +59,10 @@ Integrantes:
 
 # Tabla de contenidos
 
-* DOCUMENTOS 🗞️ 
+* [DOCUMENTOS](https://github.com/Mar17-04/FUNBIO_REPOSITORIO_GRUPO_11/tree/main/%F0%9F%A7%AA%20%20Entregables) 🗞️ 
 
-* HARDWARE 💻
+* [HARDWARE](https://github.com/Mar17-04/FUNBIO_REPOSITORIO_GRUPO_11/tree/main/%F0%9F%92%BB%20%20Hardware) 💻
 
-* SOFTWARE 🔢
+* [SOFTWARE](https://github.com/Mar17-04/FUNBIO_REPOSITORIO_GRUPO_11/tree/main/%F0%9F%95%B9%EF%B8%8F%20%20Software) 🔢
 
-* FUENTES 📋
+* [FUENTES](https://github.com/Mar17-04/FUNBIO_REPOSITORIO_GRUPO_11.git) 📋
