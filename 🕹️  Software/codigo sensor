@@ -1,0 +1,20 @@
+
+
+
+const int pinSensor = A0;  // Pin del sensor de presión conectado al NanoArduino
+
+void setup() {
+  Serial.begin(9600);      // Iniciar la comunicación serial
+}
+
+void loop() {
+  int valorSensor = analogRead(pinSensor);  // Leer el valor del sensor
+  float voltaje = valorSensor * (5.0 / 1023.0);  // Convertir a voltaje
+
+  Serial.print("Valor del sensor de presión: ");
+  Serial.print(valorSensor);
+  Serial.print(" - Voltaje: ");
+  Serial.println(voltaje, 3);  // Mostrar el voltaje con 3 decimales
+  
+  delay(1000);  // Esperar 1 segundo antes de la siguiente lectura
+}
