@@ -15,6 +15,8 @@ https://github.com/user-attachments/assets/bf687159-e8d0-4750-9849-a1c34fb5a334
 
 https://github.com/user-attachments/assets/411efd5a-7bb8-4157-b784-b6bb3cab7fe5
 
+![L8](https://github.com/user-attachments/assets/f858979e-ba51-450f-8bb0-cb7c228598e9)
+![Ñ11](https://github.com/user-attachments/assets/f230d2db-c606-40ef-9b96-9bf9173597cd)
 ![Ñ12](https://github.com/user-attachments/assets/44981dc7-7146-4ffa-b8ee-69787a718fbe)
 
 
