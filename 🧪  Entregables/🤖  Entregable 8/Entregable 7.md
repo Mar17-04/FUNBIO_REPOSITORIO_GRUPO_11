@@ -1,19 +1,21 @@
 
-![L1](https://github.com/user-attachments/assets/fc8ab0ea-7450-4822-a683-227b68343e9f)
-![L2](https://github.com/user-attachments/assets/b81ee8fa-2bc4-4720-9fd2-56a61c1461c1)
-![L3](https://github.com/user-attachments/assets/ef54844c-16de-4fc6-ac5a-e8d0adee1d4b)
-![L4](https://github.com/user-attachments/assets/a172e52a-1b51-461f-98eb-2e4b16be47b2)
-![l5](https://github.com/user-attachments/assets/a579680b-64bf-4dc9-b09c-6f3b9ed9d556)
-![L6](https://github.com/user-attachments/assets/859c8c03-bfb0-4d21-8366-1f9a44847287)
-![L7](https://github.com/user-attachments/assets/5f0bf2ac-af7e-4dfb-87be-d67ff323c689)
-![L8](https://github.com/user-attachments/assets/f858979e-ba51-450f-8bb0-cb7c228598e9)
-![arduino](https://github.com/user-attachments/assets/36bda57a-e5ec-4ecd-9c64-fa9544d4a382)
+![Ñ1](https://github.com/user-attachments/assets/8be4dc16-4600-44b8-86f0-b1ecbce67f57)
+![ñ2](https://github.com/user-attachments/assets/71b53757-9884-4ac8-9fb5-ad8d04db1c7f)
+![Ñ3](https://github.com/user-attachments/assets/cffc7781-6277-463a-a74a-b6341623fc63)
+![Ñ4](https://github.com/user-attachments/assets/5c11be6d-cb00-46de-9a72-9d7c6b06e20f)
+![ñ5](https://github.com/user-attachments/assets/f540d297-b97e-495b-988c-0e0e5c61a845)
+![Ñ6](https://github.com/user-attachments/assets/8ad42338-6b9b-41b0-8b78-c71afbb6a808)
+![Ñ7](https://github.com/user-attachments/assets/6118cb57-a3f3-4ac6-be87-98390ca1807d)
+![Ñ8](https://github.com/user-attachments/assets/85580c2b-746f-4a64-8ca3-c54db678e1fc)
+![Ñ9](https://github.com/user-attachments/assets/151375d8-59b0-4d83-a6db-1aae21ec6e82)
+![Ñ10](https://github.com/user-attachments/assets/0abfb913-5721-4c4d-bc74-c9297078a92c)
+![Imagen de WhatsApp 2024-11-12 a las 16 34 23_70df6c40](https://github.com/user-attachments/assets/7a7c7994-0560-4b74-9f46-782db727d688)
 
 https://github.com/user-attachments/assets/bf687159-e8d0-4750-9849-a1c34fb5a334
 
-
 https://github.com/user-attachments/assets/411efd5a-7bb8-4157-b784-b6bb3cab7fe5
 
+![Ñ12](https://github.com/user-attachments/assets/44981dc7-7146-4ffa-b8ee-69787a718fbe)
 
 
-![ln](https://github.com/user-attachments/assets/8ded8153-74cf-44dd-91c4-ab85548f2d6c)
+
