@@ -13,3 +13,4 @@
 
 ![Imagen de WhatsApp 2024-11-19 a las 18 34 48_7e7106e9](https://github.com/user-attachments/assets/505a8a7f-30b0-4088-9391-d93324fcb65c)
 
+![image](https://github.com/user-attachments/assets/58c36bd9-8158-4d7e-86fd-7bb32f6f619c)
