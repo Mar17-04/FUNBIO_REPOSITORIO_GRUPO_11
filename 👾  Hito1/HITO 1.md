@@ -36,5 +36,6 @@
 
 -Automatic BVM Portable Ventilator. BNF E-Mart. Available: https://bnfemart.com/automatic-bvm-portable-ventilator/?srsltid=AfmBOoq2J-Q0CcxtEAdltCy6pPoL81BZ-7vdaKKLwBdjOsEZYBnzzUAR.
 
--ツィルディア，ヨルダケ エフ．, アラム，ナディア, ボウミック，アムリタ, メン，リウイー, グプタ，アナーニャ, シェカーニ，ハリス, & プラブデサイ，パラサメシュ ピー．. (2024). Pressure relief device for bag valve mask (Patent No. JP:7464998:B2). In Patent (JP:7464998:B2).
+-
+-Tsildia, Yordake F. , Alam, Nadia, Bhowmik, Amrita, Meng, Liwi, Gupta, Ananya, Shekarni, Harris y Prabhudesai, Parasameshpee. . (2024). Pressure relief device for bag valve mask (Patent No. JP:7464998:B2). In Patent (JP:7464998:B2).
 -UFMA apresenta protótipo de reanimador automatizado que poderá auxiliar pacientes com problemas respiratórios nos hospitais. (n.d.). Universidade Federal do Maranhão. Retrieved September 3, 2024, from https://portalpadrao.ufma.br/site/noticias/ufma-apresenta-prototipo-de-reanimador-automatizado-que-podera-auxiliar-pacientes-com-problemas-respiratorios-nos-hospitais
