@@ -1,4 +1,4 @@
-# HITO 1
+
 
 ![image](https://github.com/user-attachments/assets/e31cce86-5a7e-4c49-a2d1-b6e47ff24e12)
 
