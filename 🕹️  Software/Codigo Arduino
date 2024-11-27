@@ -2,40 +2,81 @@
 
 #include <Servo.h>
 
-const int pinSensor = A0;  // Pin del sensor de presión conectado al NanoArduino
-const int servo1Pin = 8;    // Pin del primer servomotor
-const int servo2Pin = 9;    // Pin del segundo servomotor
+const int pinSensor = A0;       // Pin del sensor de presión conectado al Arduino
+const int servo1Pin = 8;        // Pin del primer servomotor
+const int servo2Pin = 9;        // Pin del segundo servomotor
 
-Servo servo1;               // Crear objeto para el primer servomotor
-Servo servo2;               // Crear objeto para el segundo servomotor
+Servo servo1;                   // Crear objeto para el primer servomotor
+Servo servo2;                   // Crear objeto para el segundo servomotor
+
+unsigned long previousMillis = 0;   // Variable para almacenar el tiempo de la última acción
+const long interval = 1000;         // Intervalo de tiempo para las acciones (1 segundo)
+
+bool enPosicionHoraria = false;     // Indica si los servos están en la posición horaria
 
 void setup() {
-  Serial.begin(9600);      // Iniciar la comunicación serial
-  servo1.attach(servo1Pin); // Conectar el primer servomotor al pin D8
-  servo2.attach(servo2Pin); // Conectar el segundo servomotor al pin D9
+  Serial.begin(9600);               // Iniciar la comunicación serial
+  servo1.attach(servo1Pin);         // Conectar el primer servomotor al pin D8
+  servo2.attach(servo2Pin);         // Conectar el segundo servomotor al pin D9
+
+  // Detener inicialmente los servos
+  servo1.write(90);                 // Posición de reposo (sin movimiento)
+  servo2.write(90);
 }
 
 void loop() {
-  int valorSensor = analogRead(pinSensor);  // Leer el valor del sensor
-  float voltaje = valorSensor * (5.0 / 1023.0);  // Convertir a voltaje
+  unsigned long currentMillis = millis();  // Obtener el tiempo actual
 
-  Serial.print("Valor del sensor de presión: ");
-  Serial.print(valorSensor);
-  Serial.print(" - Voltaje: ");
-  Serial.println(voltaje, 3);  // Mostrar el voltaje con 3 decimales
+  // Leer el valor del sensor y calcular el voltaje
+  int valorSensor = analogRead(pinSensor);
+  float voltaje = valorSensor * (5.0 / 1023.0);  // Convertir el valor a voltaje
 
-  // Comprobar si el voltaje supera 1.630V
-  if (voltaje > 1.710) {
-    Serial.println("Voltaje superado, activando servos.");  // Mensaje de depuración
-    servo1.write(90);  // Girar el primer servomotor a 90 grados
-    servo2.write(90);  // Girar el segundo servomotor a 90 grados
-    delay(1000);       // Mantener en esa posición por 1 segundo
+  // Enviar el voltaje al monitor serie
+  Serial.print("Voltaje: ");
+  Serial.println(voltaje, 3);
 
-    // Regresar a la posición original
-    servo1.write(0);   // Regresar el primer servomotor a 0 grados
-    servo2.write(0);   // Regresar el segundo servomotor a 0 grados
-    Serial.println("Servos regresando a la posición original."); // Mensaje de retorno
-    delay(1000);       // Mantener en esa posición por 1 segundo
+  // Comprobar si el voltaje supera el umbral
+  if (voltaje > 1.200) {
+    if (!enPosicionHoraria) {  // Si no están en posición horaria
+      if (currentMillis - previousMillis >= interval) {  // Si ha pasado el intervalo
+        previousMillis = currentMillis;                 // Actualizar el tiempo
+
+        // Girar en dirección horaria por 1 segundo
+        Serial.println("Voltaje alto: girando en dirección horaria.");
+        servo1.write(120);  // Girar el primer servomotor en dirección horaria
+        servo2.write(120);  // Girar el segundo servomotor en dirección horaria
+
+        delay(2000);        // Girar durante 2 segundo
+
+        // Detener los servos
+        servo1.write(90);   // Detener el primer servomotor
+        servo2.write(90);   // Detener el segundo servomotor
+
+        enPosicionHoraria = true;  // Indicar que los servos están en la posición horaria
+      }
+    }
+  } 
+  // Si el voltaje baja del umbral
+  else {
+    if (enPosicionHoraria) {  // Si estaban en posición horaria
+      if (currentMillis - previousMillis >= interval) {  // Si ha pasado el intervalo
+        previousMillis = currentMillis;                 // Actualizar el tiempo
+
+        // Girar en dirección antihoraria por 1 segundo
+        Serial.println("Voltaje bajo: girando en dirección antihoraria.");
+        servo1.write(60);  // Girar el primer servomotor en dirección antihoraria
+        servo2.write(60);  // Girar el segundo servomotor en dirección antihoraria
+
+        delay(1500);       // Girar durante 1 segundo
+
+        // Detener los servos
+        servo1.write(90);  // Detener el primer servomotor
+        servo2.write(90);  // Detener el segundo servomotor
+
+        enPosicionHoraria = false;  // Indicar que los servos están en la posición antihoraria
+      }
+    }
   }
 
-  delay(1000);  // Esperar 1 segundo antes de la siguiente lectura
+  delay(100);  // Pequeña pausa para no saturar el puerto serie
+}
