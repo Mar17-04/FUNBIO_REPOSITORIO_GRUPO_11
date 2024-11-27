@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/11aade8f-e118-4e59-9fc6-ed551c028eb3)
 ![image](https://github.com/user-attachments/assets/3414cfcb-beab-454a-baba-3686d1c616dc)
 
-## 3. EScaneo de la variancza de las presiones medidas por el sensor:
+## 3. Escaneo de la varianza de las presiones medidas por el sensor:
 
 ![Imagen de WhatsApp 2024-11-19 a las 18 34 48_7e7106e9](https://github.com/user-attachments/assets/505a8a7f-30b0-4088-9391-d93324fcb65c)
 
